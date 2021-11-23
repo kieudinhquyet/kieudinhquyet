@@ -9,7 +9,6 @@
 **Liên hệ:**
  
  - ⭐⭐ Facebook: [Kiều Đình Quyết](https://fb.me/JustOnly.MaiHuyBao.Official)
- - ⭐⭐ Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
  - ⭐⭐ Email: [kieudinhquyet137@gmail.com](mailto:kieudinhquyet137@gmail.com)
  - ⭐⭐ Github: [kieudinhquyet](https://github.com/kieudinhquyet)
 
