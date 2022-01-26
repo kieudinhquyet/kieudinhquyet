@@ -3,8 +3,10 @@
 
 **Giới thiệu về bản thân:**
 
- - Tên của mình là: **Kiều Đình Quyết**
- - Mình đang là **Developer** của project [VangBanLaNhat](https://github.com/VangBanLaNhat)
+ - Họ và tên : **Kiều Đình Quyết**
+ - Là : **Học sinh** 
+ - Sinh ngày : **13/07**
+ - Sống tại : **Thạch Thất, Hà Nội**
 
 **Liên hệ:**
  
